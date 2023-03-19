@@ -1,5 +1,5 @@
 # Jogo-da-Vida
-Programa que simula, de maneira básica, o Jogo da vida em linguagem C.
+Programa que simula, de maneira básica, o Jogo da vida em linguagem C. Projeto simples realizado para a matéria de Projeto e Análise de Algoritmos.
 
 Esse Programa consiste em um Jogo da Vida que utiliza uma matriz 5x5 predefinida. 
 
